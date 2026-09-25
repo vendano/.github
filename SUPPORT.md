@@ -1,19 +1,7 @@
 # Support
 
-### Support channels
+Vendano is no longer actively maintained. For questions about an existing installation, email [jeffrey@pushplay.net](mailto:jeffrey@pushplay.net) or read the [project status](https://vendano.net/).
 
-- Email: support@vendano.net
-- Website: https://vendano.net
+Before uninstalling the app or clearing its data, securely back up your recovery phrase and verify access to any funds independently of the installed app. Never email a recovery phrase or private key to anyone.
 
-### What to include in a support request
-
-- A concise description of the issue or request
-- Repository and file paths involved (if applicable)
-- Steps to reproduce (for bugs)
-- Any error messages or logs (where safe to share)
-- Your contact details for follow-up
-
-### Response expectations
-
-- We aim to acknowledge requests within 1–2 business days and provide updates as information becomes available.
-- For urgent security issues, use SECURITY.md channels.
+For a potential security issue, see [SECURITY.md](SECURITY.md). No response time or fix schedule is guaranteed.

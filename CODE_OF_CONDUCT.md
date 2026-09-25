@@ -11,7 +11,7 @@ Vendano is committed to fostering an inclusive, respectful, and harassment-free 
 
 ### Reporting and escalation
 
-- If you experience or witness unacceptable behavior, please contact support@vendano.net.
+- If you experience or witness unacceptable behavior, please contact jeffrey@pushplay.net.
 - For security concerns, see SECURITY.md for vulnerability reporting guidance.
 - Violations may lead to temporary or permanent removal from contributing, per the maintainers’ discretion.
 
